@@ -19,11 +19,11 @@ News
 
 Publications
 ======
-**Liu, Zizheng**, Shaan Shekhar, and Chunyi Peng. "Breaking Geographic Routing Among Connected Vehicles." In 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 42-54. IEEE, 2023. (Acceptance rate: 47/235 = 20%) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10202631&casa_token=nf9VACfbJIsAAAAA:-whwLLhsKnyc-phL4_mNPFcrUqgizivBTBTEz8yios1ePSf6T7t4Fctcnz3lz2zKb2tp7CCKTw&tag=1)
+**Liu, Zizheng**, Shaan Shekhar, and Chunyi Peng. "Breaking Geographic Routing Among Connected Vehicles." In 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 42-54. IEEE, 2023. (Acceptance rate: 47/235 = 20%) [[PDF]](https://www.cs.purdue.edu/homes/chunyi/pubs/dsn23-liu.pdf)
 
 Zhang, Zhehui, Yanbing Liu, Qianru Li, **Zizheng Liu**, Chunyi Peng, and Songwu Lu. "Dependent Misconfigurations in 5G/4.5 G Radio Resource Control." ACM CoNext 2023 (Proceedings of the ACM on Networking (PACMNET)) (2023). (Acceptance rate: 4/41 = 9.8%) [[PDF]](https://www.cs.purdue.edu/homes/chunyi/pubs/conext23-zhang.pdf)
 
 **Liu, Zizheng**, and Chunyi Peng. "Security Analysis for Emerging Cellular Network Technologies." 
-NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE Institute) Annual Meeting [[Poster PDF]]()
+NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE Institute) Annual Meeting. [[Poster PDF]](https://Cangjie103.github.io/files/sec_emerge_poster.pdf)
 
 **Liu, Zizheng**, and Chunyi Peng. "Quality Measurement over Quality Data Reuse in Cellular Networks." 2nd NSF Workshop on Overcoming Measurement Barriers to Internet Research (WOMBIR-2) (2021). [[PDF]](https://www.caida.org/workshops/wombir/2104/slides/wombir2-peng-paper.pdf)
