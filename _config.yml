@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zizheng Liu 刘子正"
-title_separator          : "-"
+title                    : 
+title_separator          : ""
 name                     : &name "Zizheng Liu"
 description              : &description "PhD student @ Purdue CS"
 url                      : https://Cangjie103.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
