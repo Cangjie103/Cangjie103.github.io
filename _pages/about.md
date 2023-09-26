@@ -10,6 +10,8 @@ redirect_from:
 
 I am a third-year Ph.D. student in Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Before that, I received my MS in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and BE in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
 
+[Curriculum Vitae](https://Cangjie103.github.io/files/paper1.pdf)
+
 News
 ======
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
