@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zizheng Liu 刘子正"
 title_separator          : "-"
 name                     : &name "Zizheng Liu"
 description              : &description "PhD student @ Purdue CS"

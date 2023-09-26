@@ -13,7 +13,7 @@ I am a third-year Ph.D. student in Department of Computer Science at [Purdue Uni
 News
 ======
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
-- **Mar 2023:** “Breaking Geographic Routing Among Connected Vehicles” is accepted by [DSN’23](https://dsn2023.dei.uc.pt/).
+- **Mar 2023:** “Breaking Geographic Routing Among Connected Vehicles” is accepted by [DSN’23](https://dsn2023.dei.uc.pt/)
 - **Mar 2023:** “Dependent Misconfigurations in 5G/4.5 G Radio Resource Control” is accepted by [CoNext’23](https://conferences.sigcomm.org/co-next/2023/#!/home)
 - **Sep 2022:** I presented our work "Security Analysis for Emerging Cellular Network Technologies" in [AI-EDGE](https://aiedge.osu.edu/) Annual Meeting
 
