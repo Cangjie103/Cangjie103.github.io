@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Before that, I received my MS in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and BE in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
 
-A data-driven personal website
+Publications
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
