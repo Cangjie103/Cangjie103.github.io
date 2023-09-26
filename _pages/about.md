@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Zizheng Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/). I am advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Before that, I received my MS in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and BE in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
+I am a Ph.D. student in Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/). Before that, I received my M.S. in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and B.E. in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
 
 [Curriculum Vitae](https://Cangjie103.github.io/files/paper1.pdf)
 
