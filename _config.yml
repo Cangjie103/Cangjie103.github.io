@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zizheng Liu 刘子正"
+title                    :
 title_separator          : ""
 name                     : &name "Zizheng Liu"
 description              : &description "PhD student @ Purdue CS"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zizheng Liu"
+  name             : "Zizheng Liu (刘子正)"
   avatar           : "profile.png"
   bio              : "Ph.D. student @ Purdue CS"
   location         :
