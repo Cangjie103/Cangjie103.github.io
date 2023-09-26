@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zizheng Liu 刘子正"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
