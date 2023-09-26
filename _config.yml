@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : ""
-name                     : &name "Zizheng Liu"
+name                     : &name "Zizheng Liu (刘子正)"
 description              : &description "PhD student @ Purdue CS"
 url                      : https://Cangjie103.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
