@@ -28,7 +28,7 @@ Publications
 Zhang, Zhehui, Yanbing Liu, Qianru Li, **Zizheng Liu**, Chunyi Peng, and Songwu Lu. "Dependent Misconfigurations in 5G/4.5 G Radio Resource Control." ACM CoNext 2023 (Proceedings of the ACM on Networking (PACMNET)) (2023). (Acceptance rate: 4/41 = 9.8%) [[PDF]](https://www.cs.purdue.edu/homes/chunyi/pubs/conext23-zhang.pdf)
 
 **Liu, Zizheng**, and Chunyi Peng. "Security Analysis for Emerging Cellular Network Technologies." 
-NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE Institute) Annual Meeting. [[Poster PDF]](https://Cangjie103.github.io/files/sec_emerge_poster.pdf)
+NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE Institute) Annual Meeting (2022). [[Poster PDF]](https://Cangjie103.github.io/files/sec_emerge_poster.pdf)
 
 **Liu, Zizheng**, and Chunyi Peng. "Quality Measurement over Quality Data Reuse in Cellular Networks." 2nd NSF Workshop on Overcoming Measurement Barriers to Internet Research (WOMBIR-2) (2021). [[PDF]](https://www.caida.org/workshops/wombir/2104/slides/wombir2-peng-paper.pdf)
 
