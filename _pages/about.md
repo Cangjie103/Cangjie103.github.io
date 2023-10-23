@@ -35,3 +35,7 @@ NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE 
 Services
 ======
 Reviewer: IEEE-Transactions on Information Forensics and Security, Computer Networks, Computer Communications
+
+MISC
+======
+In my home in Beijing, I have a cute Shiba Inu. Her name is [Little Puff (小泡芙)](https://Cangjie103.github.io/files/lilPuff.jpg).
