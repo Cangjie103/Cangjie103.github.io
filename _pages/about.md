@@ -10,12 +10,13 @@ redirect_from:
 
 About me
 =====
-I am a Ph.D. student in the Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). Before that, I received my M.S. in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and B.E. in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
+I am a Ph.D. candidate in the Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). Before that, I received my M.S. in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and B.E. in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
 
 [Curriculum Vitae](https://Cangjie103.github.io/files/research_zizheng_purdue_2023.pdf)
 
 News
 ======
+- **Apr 2024:** I passed my Ph.D. preliminary exam, I am a Ph.D. candidate now!
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
 - **Mar 2023:** “Breaking Geographic Routing Among Connected Vehicles” is accepted by [DSN’23](https://dsn2023.dei.uc.pt/)
 - **Mar 2023:** “Dependent Misconfigurations in 5G/4.5 G Radio Resource Control” is accepted by [CoNext’23](https://conferences.sigcomm.org/co-next/2023/#!/home)
