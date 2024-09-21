@@ -16,7 +16,7 @@ I am a Ph.D. candidate in the Department of Computer Science at [Purdue Universi
 
 News
 ======
-- **Sep 2024:** I will present our latest results on collaborative attacks in autonomous UAV networks in Next-Generation Transport Systems Conference ([NGTS-4](https://nextranspurdue.wixsite.com/ngts2024)), register and join if you are interested in it!
+- **Sep 2024:** I will present our latest results on collaborative attacks in autonomous UAV networks in [NGTS-4](https://nextranspurdue.wixsite.com/ngts2024)), register and join if you are interested in it!
 - **Apr 2024:** I passed my Ph.D. preliminary exam, I am a Ph.D. candidate now!
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
 - **Mar 2023:** “Breaking Geographic Routing Among Connected Vehicles” is accepted by [DSN’23](https://dsn2023.dei.uc.pt/)
