@@ -12,10 +12,11 @@ About me
 =====
 I am a Ph.D. candidate in the Department of Computer Science at [Purdue University](https://www.cs.purdue.edu/), advised by Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). Before that, I received my M.S. in Computer Science at [Columbia University](https://www.cs.columbia.edu/) in 2019 and B.E. in Computer Science and Technology at [Northeastern University](http://www.cse.neu.edu.cn/) (Shenyang, China) in 2018.
 
-[Curriculum Vitae](https://Cangjie103.github.io/files/research_zizheng_purdue_2023.pdf)
+[Curriculum Vitae](https://Cangjie103.github.io/files/research_zizheng_purdue_2023.pdf), [Chinese Version](https://Cangjie103.github.io/files/lzz_purdue_13504039426.pdf)
 
 News
 ======
+- **Oct 2025:** “STARFed: Link-Aware Defense Against Poisoning Attacks in Satellite-Terrestrial Federated Learning” is accepted by [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
 - **Sep 2024:** I will present our latest results on collaborative attacks in autonomous UAV networks in [NGTS-4](https://nextranspurdue.wixsite.com/ngts2024), register and join if you are interested in it!
 - **Apr 2024:** I passed my Ph.D. preliminary exam, I am a Ph.D. candidate now!
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
@@ -25,6 +26,8 @@ News
 
 Publications
 ======
+**Liu, Zizheng**, Bharat K. Bhargava, and Nagender Aneja. "STARFed: Link-Aware Defense Against Poisoning Attacks in Satellite-Terrestrial Federated Learning." IEEE Transactions on Network Science and Engineering (2025). [[PDF]](https://www.cs.purdue.edu/homes/bb/STARFed_TNSE_revis_submission.pdf)
+
 **Liu, Zizheng**, Shaan Shekhar, and Chunyi Peng. "Breaking Geographic Routing Among Connected Vehicles." In 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), pp. 42-54. IEEE, 2023. (Acceptance rate: 47/235 = 20%) [[PDF]](https://www.cs.purdue.edu/homes/chunyi/pubs/dsn23-liu.pdf)
 
 Zhang, Zhehui, Yanbing Liu, Qianru Li, **Zizheng Liu**, Chunyi Peng, and Songwu Lu. "Dependent Misconfigurations in 5G/4.5 G Radio Resource Control." ACM CoNext 2023 (Proceedings of the ACM on Networking (PACMNET)) (2023). (Acceptance rate: 4/41 = 9.8%) [[PDF]](https://www.cs.purdue.edu/homes/chunyi/pubs/conext23-zhang.pdf)
