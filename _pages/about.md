@@ -17,6 +17,7 @@ I am a Ph.D. candidate in the Department of Computer Science at [Purdue Universi
 News
 ======
 - **Oct 2025:** “STARFed: Link-Aware Defense Against Poisoning Attacks in Satellite-Terrestrial Federated Learning” is accepted by [IEEE TNSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+- **Aug 2025:** I am so excited and honored to attend the [Secure Computation Workshop]((https://simons.berkeley.edu/workshops/secure-computation-0#simons-tabs)) of "Cryptography 10 Years Later: Obfuscation, Proof Systems, and Secure Computation" Program at Simons Institute and meet great cryptographers there!
 - **Sep 2024:** I will present our latest results on collaborative attacks in autonomous UAV networks in [NGTS-4](https://nextranspurdue.wixsite.com/ngts2024), register and join if you are interested in it!
 - **Apr 2024:** I passed my Ph.D. preliminary exam, I am a Ph.D. candidate now!
 - **Jun 2023:** I am awarded the student travel grant to attend DSN’23. See you in Portugal!
